@@ -3,3 +3,5 @@ CREATE TABLE customers
   customer_name varchar2(50) NOT NULL,
   city varchar2(50)
 );
+
+#adding few lines as comments
